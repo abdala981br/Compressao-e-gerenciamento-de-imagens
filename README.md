@@ -36,10 +36,11 @@ Projeto desenvolvido para a disciplina **Estruturas de Dados 2 (ED2)**, com foco
    gcc main.c -o programa
 
 2. Execute:
+   ```bash
     ./programa
 
 
-3. Siga o menu para:
+4. Siga o menu para:
   - Adicionar imagens;
   - Remover;
   - Compactar;
